@@ -85,19 +85,12 @@ grid-template-rows: 190px 190px;
 
 .contenedordiv6 {
     
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    background-image: url("../Recursos/N69okg.jpg");
-    background-size: cover;
-    background-position: initial;
-    width: 100%;
-    height: 190px;
+    
     
 }
 .contenedordiv7 {
     
-    background-color: burlywood;
+    
     
 }
 
